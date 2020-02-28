@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Main-Class: ExcelUtil
+Class-Path: dom4j-1.6.1.jar xmlbeans-2.3.0.jar poi-3.9.jar poi-ooxml-3.9
+ .jar commons-io-2.4.jar poi-ooxml-schemas-3.9.jar xml-apis-1.0.b2.jar c
+ ommons-codec-1.5.jar stax-api-1.0.1.jar
+
